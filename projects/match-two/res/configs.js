@@ -1,5 +1,6 @@
 window.EXTERNAL_CONFIGS = {
     TAP_TO_START: false,
+    MORE_GAME_REDIRECT: "https://leductpm2.github.io/",
 
     TEXT_COLOR: {
         DEFAULT: "#3c3c78",
