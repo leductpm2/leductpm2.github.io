@@ -3,10 +3,10 @@ window.EXTERNAL_CONFIGS = {
     MORE_GAME_REDIRECT: "https://leductpm2.github.io/",
 
     TEXT_COLOR: {
-        DEFAULT: "#3c3c78",
-        INPUT_TEXT: "#3c3c78",
-        BUTTON_TEXT: "#3c3c78",
-        POPUP_TITLE: "#3c3c78"
+        DEFAULT: "#2b2b2b",
+        INPUT_TEXT: "#2b2b2b",
+        BUTTON_TEXT: "#2b2b2b",
+        POPUP_TITLE: "#2b2b2b"
     },
 
     Z_INDEX: {
@@ -19,8 +19,8 @@ window.EXTERNAL_CONFIGS = {
 
     SCENE_TWEEN_TIME: {
         DEFAULT: { IN: 400, OUT: 300 },
-        MAIN: { IN: 500, OUT: 400 },
-        GAME: { IN: 500, OUT: 400 }
+        MAIN: { IN: 400, OUT: 300 },
+        GAME: { IN: 400, OUT: 300 }
     },
 
     POPUP_TWEEN_TIME: {
@@ -28,10 +28,8 @@ window.EXTERNAL_CONFIGS = {
     },
 
     GAME_AREA: {
-        WIDTH: 720,
-        HEIGHT: 960,
-        x: 0,
-        y: 25
+        WIDTH: 646,
+        HEIGHT: 646
     },
 
     GRID_SETTINGS: {
@@ -46,7 +44,8 @@ window.EXTERNAL_CONFIGS = {
 
     MIN_BUBBLE_TO_POP: 5,
     BUBBLE_SPAWN_PER_MOVE: 3,
-    BUBBLE_TYPES: [3, 4, 5]
+    BUBBLE_TYPES: [3, 4, 5],
+    UNDO_MAX: 5
 };
 
 /**

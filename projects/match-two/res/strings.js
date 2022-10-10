@@ -35,6 +35,7 @@ window.EXTERNAL_STRINGS = {
 
     "MOVES": "MOVES",
     "TIME_LEFT": "TIME LEFT",
+    "TIME": "TIME",
 };
 
 /**

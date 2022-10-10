@@ -14,6 +14,12 @@ window.EXTERNAL_SOUNDS = {
 };
 
 /**
+ * @usage
+ * dl.game.soundManager.playSFX("button-click");
+ * dl.game.soundManager.playMusic("background");
+ */
+
+/**
  * Credits
  */
 console.log("Music by SergeQuadrado from Pixabay: https://pixabay.com/music/upbeat-positive-cartoon-loop-109009/");

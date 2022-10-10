@@ -19,16 +19,16 @@ window.EXTERNAL_IMAGES = {
     "popup-background": "res/images/popup/background.png",
     "popup-button-text": "res/images/popup/button-text.png",
 
-    "icon-music": "res/images/popup/icon-music.png",
-    "icon-sfx": "res/images/popup/icon-sfx.png",
+    "icon-music": "res/images/icon-music.png",
+    "icon-sfx": "res/images/icon-sfx.png",
 
-    "top-panel": "res/images/top-panel.png",
     "moves-panel": "res/images/moves-panel.png",
     "time-left-panel": "res/images/time-left-panel.png",
+    "time-passed-panel": "res/images/time-passed-panel.png",
     "card": "res/images/card.png"
 };
 
 /**
  * @usage
- * dl.resources.getImage("invisible");
+ * dl.resources.getImage("default");
  */

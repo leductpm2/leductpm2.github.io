@@ -10,3 +10,8 @@ window.EXTERNAL_FONTS = {
         FONT_DIRECTORY: "res/fonts/main-font"
     }
 };
+
+/**
+ * @usage
+ * dl.resources.getFontFamily("MAIN_FONT");
+ */

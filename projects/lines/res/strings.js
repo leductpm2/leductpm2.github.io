@@ -33,7 +33,9 @@ window.EXTERNAL_STRINGS = {
     },
 
     "SCORE": "SCORE",
-    "TIME": "TIME"
+    "TIME": "TIME",
+    "UNDO": "UNDO",
+    "REDO": "REDO"
 };
 
 /**

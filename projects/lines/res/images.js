@@ -21,8 +21,8 @@ window.EXTERNAL_IMAGES = {
     "popup-button-text-big": "res/images/popup/button-text-big.png",
     "popup-button-close": "res/images/popup/button-close.png",
 
-    "icon-music": "res/images/popup/icon-music.png",
-    "icon-sfx": "res/images/popup/icon-sfx.png",
+    "icon-music": "res/images/icon-music.png",
+    "icon-sfx": "res/images/icon-sfx.png",
 
     "tile": "res/images/tile.png",
     "grid": "res/images/grid.png",
@@ -31,8 +31,12 @@ window.EXTERNAL_IMAGES = {
 
     "top-panel": "res/images/top-panel.png",
     "bottom-panel": "res/images/bottom-panel.png",
+    "right-panel": "res/images/right-panel.png",
 
-    "score-panel": "res/images/score-panel.png"
+    "score-panel": "res/images/score-panel.png",
+    "time-passed-panel": "res/images/time-passed-panel.png",
+    "button-game-text": "res/images/button-game-text.png",
+    
 };
 
 /**

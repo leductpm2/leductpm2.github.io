@@ -29,24 +29,25 @@ window.EXTERNAL_CONFIGS = {
 
     GAME_AREA: {
         WIDTH: 720,
-        HEIGHT: 960 - 150,
+        HEIGHT: 960 - 80,
         x: 0,
-        y: 75
+        y: 40
     },
 
+    // for portrait
     GRID_SETTINGS: {
-        ROW: 5,
-        COL: 4
+        ROW: 6,
+        COL: 5
     },
 
     TILE_SETTINGS: {
-        WIDTH: 160,
-        HEIGHT: 160
+        WIDTH: 104,
+        HEIGHT: 104
     },
 
     GAME_TIME: 60 * 1000,
 
-    CARD_EFFECT:{
+    CARD_EFFECT: {
         SELECT: 200,
         DESELECT: 200,
         MATCH: 400
