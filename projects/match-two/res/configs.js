@@ -3,10 +3,10 @@ window.EXTERNAL_CONFIGS = {
     MORE_GAME_REDIRECT: "https://leductpm2.github.io/",
 
     TEXT_COLOR: {
-        DEFAULT: "#3c3c78",
-        INPUT_TEXT: "#3c3c78",
-        BUTTON_TEXT: "#3c3c78",
-        POPUP_TITLE: "#3c3c78"
+        DEFAULT: "#2b2b2b",
+        INPUT_TEXT: "#2b2b2b",
+        BUTTON_TEXT: "#2b2b2b",
+        POPUP_TITLE: "#2b2b2b"
     },
 
     Z_INDEX: {
@@ -29,9 +29,7 @@ window.EXTERNAL_CONFIGS = {
 
     GAME_AREA: {
         WIDTH: 720,
-        HEIGHT: 960 - 80,
-        x: 0,
-        y: 40
+        HEIGHT: 720
     },
 
     // for portrait
